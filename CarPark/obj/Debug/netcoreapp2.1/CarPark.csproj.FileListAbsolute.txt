@@ -1,0 +1,11 @@
+C:\Code\MSC\CarPark\CarPark\bin\Debug\netcoreapp2.1\CarPark.deps.json
+C:\Code\MSC\CarPark\CarPark\bin\Debug\netcoreapp2.1\CarPark.runtimeconfig.json
+C:\Code\MSC\CarPark\CarPark\bin\Debug\netcoreapp2.1\CarPark.runtimeconfig.dev.json
+C:\Code\MSC\CarPark\CarPark\bin\Debug\netcoreapp2.1\CarPark.dll
+C:\Code\MSC\CarPark\CarPark\bin\Debug\netcoreapp2.1\CarPark.pdb
+C:\Code\MSC\CarPark\CarPark\obj\Debug\netcoreapp2.1\CarPark.csprojAssemblyReference.cache
+C:\Code\MSC\CarPark\CarPark\obj\Debug\netcoreapp2.1\CarPark.csproj.CoreCompileInputs.cache
+C:\Code\MSC\CarPark\CarPark\obj\Debug\netcoreapp2.1\CarPark.AssemblyInfoInputs.cache
+C:\Code\MSC\CarPark\CarPark\obj\Debug\netcoreapp2.1\CarPark.AssemblyInfo.cs
+C:\Code\MSC\CarPark\CarPark\obj\Debug\netcoreapp2.1\CarPark.dll
+C:\Code\MSC\CarPark\CarPark\obj\Debug\netcoreapp2.1\CarPark.pdb
